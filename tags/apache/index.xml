@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Apache on Inseptek</title>
+    <link>https://inseptek.com/tags/apache/</link>
+    <description>Recent content in Apache on Inseptek</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>id-id</language>
+    <lastBuildDate>Sat, 22 Apr 2017 08:31:03 +0000</lastBuildDate>
+    
+	<atom:link href="https://inseptek.com/tags/apache/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Apa itu XAMPP ?</title>
+      <link>https://inseptek.com/apa-itu-xampp/</link>
+      <pubDate>Sat, 22 Apr 2017 08:31:03 +0000</pubDate>
+      
+      <guid>https://inseptek.com/apa-itu-xampp/</guid>
+      <description>Yak, Xampp adalah perangkat yang menggabungkan tiga aplikasi kedalam satu paket, yaitu Apache, MySQL, dan PHPMyAdmin, Dengan Xampp pekerjaan sobat Inseptek sangat dimudahkan karena dapat menginstalasi dan mengkonfigurasi ketiga aplikasi tersebut dengan sekaligus dan otomatis.
+Xampp telah mengalami perkembangan dari waktu ke waktu.versi yang terbaru adalah revisi dari yang terdahulu,sehingga lebih baik dan lebih lengkap. aplikasi utama dalam paket Xampp yakni terdiri atas :
+**
+Apache** adalah sebuah web server open source,jadi semua orang dapat menggunakannya secara gratis,bahkan sobat Inseptek bisa mengedit kode programnya.</description>
+    </item>
+    
+  </channel>
+</rss>
